@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "temp-org-workshop-dev-controller"
+description: "CloudBees CI configuration bundle for the temp-org-workshop dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/temp-org-workshop/dev-controller"
+parent: "base"
